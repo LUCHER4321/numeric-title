@@ -1,7 +1,8 @@
 {
   "name": "numeric-title",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A React component that dynamically renders heading tags (h1-h6) based on a numeric prop with paragraph fallback.",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -44,5 +45,9 @@
     "heading-generator",
     "semantic-headings"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LUCHER4321/numeric-title"
+  },
   "author": "LUCHER4321"
 }
